@@ -1,0 +1,4 @@
+Fajl koji je napravljen na lokalnom serveru, 
+nakon koriscenja CLONE komande, i dodat na taj 
+repozitorijum sa lokalnog servra nako ADD komande.
+
