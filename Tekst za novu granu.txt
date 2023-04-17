@@ -1,0 +1,7 @@
+git branch novaGrana // dodajemo granu novaGrana
+    checkout novaGrana // selektujemo
+
+git branch // proveravamo da li je selktovana (nazivGrane)*
+
+git pull origin main // uzimamo sa Git-a inf
+
