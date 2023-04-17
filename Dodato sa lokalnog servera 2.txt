@@ -1,0 +1,25 @@
+Bitne komande za Git:
+
+Clone
+* Klonira postojeco repozitorijum!
+
+Pull
+* Dohvata i spaja poslednje promene koje sa repozitorijuma! 
+
+Add
+* Priprema ( Dodaje selektovan fajl ) za Commit!
+
+Commit
+* Dodeljuje \ Predaje lokalnom repozitorijumu!
+
+Status
+* Provear statusa
+
+Init
+* Kreira novi lokalni repozitorijum
+
+Remote add 
+* (dodaje na remote GIT URL)
+
+Push
+* Predaje\ Salje promene na remote repozitorijum
